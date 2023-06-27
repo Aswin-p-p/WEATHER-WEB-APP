@@ -1,0 +1,31 @@
+.box1 {
+    height: 220px;
+    width: 677px;
+    background-color: black;
+    margin-left: -69px;
+    margin-top: 33px;
+   background: rgba(0,0, 0,0.2);
+   border-radius: 20px;
+    
+}
+.box2 {
+    height: 220px;
+    width: 677px;
+    background-color: black;
+    margin-left: 692px;
+    margin-top: -217px;
+    background: rgba(0,0, 0,0.2);
+    border-radius: 20px;
+    
+}
+h2{
+    color: antiquewhite;
+}
+h1{
+    color: antiquewhite;
+
+}
+p{
+    color: antiquewhite;
+}
+
